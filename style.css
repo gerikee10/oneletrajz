@@ -1,0 +1,46 @@
+img
+{
+    float: right;
+    width:15% ;
+}
+
+#PC
+{
+    float: inline-end;
+    width: 10%;
+}
+.class1
+{
+    font-style: italic;
+    font-size: 1.10em;
+}
+
+#valami
+{
+    font-style: italic;
+}
+
+h1
+{
+    text-align: center;
+}
+
+body
+{
+    background-image: url("Images/kep.jpg");
+    background-size: cover;
+    color: white;
+    background-attachment: fixed;
+    font-family: "Consolas";
+    border:ridge blue 3px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+    
+}
+
+body>img
+{
+    border: green ridge 4px;
+    
+}
