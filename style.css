@@ -18,6 +18,7 @@ img
 #valami
 {
     font-style: italic;
+    color: orangered;
 }
 
 h1
@@ -31,11 +32,8 @@ body
     background-size: cover;
     color: white;
     background-attachment: fixed;
-    font-family: "Consolas";
-    border:ridge blue 3px;
-    border-radius: 20px;
-    padding: 20px;
-    margin: auto;
+    font-size: 2em;
+    
     
 }
 
@@ -43,4 +41,15 @@ body>img
 {
     border: green ridge 4px;
     
+}
+
+#div1
+{
+    font-family: "Consolas";
+    border:ridge blue 3px;
+    border-radius: 30px;
+    padding: 20px;
+    background-color: rgba(0, 50, 100, 50%);
+    width: 80%;
+    margin: auto;
 }
